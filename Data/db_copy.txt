@@ -1,0 +1,5 @@
+{"first_name":"Naruto","last_name":"Uzamaki","email_address":"naruto@naruto.net","user_name":"rasengan","id":1}
+{"first_name":"Ichigo","last_name":"Kurosaki","email_address":"ichigo@bleach.net","user_name":"bankai","id":2}
+{"first_name":"Monkey D","last_name":"Luffy","email_address":"luffy@onepeice.net","user_name":"gear5","id":3}
+{"first_name":"Yuji","last_name":"Itadori","email_address":"yuji@jjk.net","user_name":"blackflash","id":4}
+{"first_name":"Mash","email_address":"mash@mashle.net","user_name":"magicpunch","id":5}
